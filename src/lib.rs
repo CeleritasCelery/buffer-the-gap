@@ -2,4 +2,5 @@
 mod buffer;
 
 mod metrics;
+mod rope;
 pub use buffer::*;
